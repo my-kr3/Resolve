@@ -1,0 +1,9 @@
+main: m.my.resolve.main
+name: Resolve
+author: my
+api-version: 1.13
+version: 1.1.0
+
+commands:
+  Resolve:
+    description: ""
